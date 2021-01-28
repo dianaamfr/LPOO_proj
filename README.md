@@ -21,7 +21,7 @@ The helicopter, starting from the top left corner of the scene, will have to des
 
 ----
 
-This project was developed by Diana Freitas and Eduardo Brito (@edurbrito) for LPOO 2019⁄2020.
+This project was developed by [Diana Freitas](https://github.com/dianaamfr) and [Eduardo Brito](https://github.com/edurbrito) for LPOO 2019⁄2020.
 
 ## MAIN FEATURES
 
